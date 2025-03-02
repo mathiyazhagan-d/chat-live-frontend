@@ -79,7 +79,7 @@ This project is a real-time chat application built using WebSockets. It enables 
 ### 🔹 User Profile  
 <img src="./public/screenshot/img (4).png" alt="Profile Page" width="600">  
 
-### 🔹 Group and Direct Chat  
+### 🔹 Group and Direct Chat   
 <img src="./public/screenshot/img (3).png" alt="Group and Direct Chat" width="600">  
 
 ### 🔹 Group Details Edit  
