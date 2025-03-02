@@ -73,6 +73,8 @@ This project is a real-time chat application built using WebSockets. It enables 
 - Improved UI/UX with **TailwindCSS** for responsiveness.  
 - Handled edge cases: empty messages, connection loss, auto-reconnect.  
 
+<img src="./public/screenshot/img (1).png" alt="ans-1">
+
 ## Author  
 👨‍💻 **Mathiyazhagan D**  
 
