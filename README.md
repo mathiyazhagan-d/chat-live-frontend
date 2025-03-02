@@ -79,10 +79,16 @@ login
 signup
 <img src="./public/screenshot/img (2).png" alt="ans-2">
 
+search user
+<img src="./public/screenshot/img (6).png" alt="ans-6">
 
-<img src="./public/screenshot/img (3).png" alt="ans-3">
+profile
 <img src="./public/screenshot/img (4).png" alt="ans-4">
-<img src="./public/screenshot/img (5).png" alt="ans-5">
+
+group and direct chat
+<img src="./public/screenshot/img (3).png" alt="ans-3">
+
+group details edit
 <img src="./public/screenshot/img (6).png" alt="ans-6">
 
 ## Author  
