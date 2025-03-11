@@ -83,7 +83,7 @@ This project is a real-time chat application built using WebSockets. It enables 
 <img src="./public/screenshot/img (3).png" alt="Group and Direct Chat" width="600">  
 
 ### 🔹 Group Details Edit  
-<img src="./public/screenshot/img (6).png" alt="Group Details Edit" width="600">  
+<img src="./public/screenshot/img (5).png" alt="Group Details Edit" width="600">  
 
 ## 📝 Additional Notes  
 - Implemented **context API** to manage WebSocket connections globally.  
